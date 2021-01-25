@@ -4,6 +4,8 @@
 
 <p align="center">Package manager for Chrome OS</p>
 
+<p align="center">View CloudReady.md for cloudready instructions!!</p>
+
 Chat with us!
 -------------
 <p><em>Discord is not currently syncing messages with Slack</em></p>
