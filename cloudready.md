@@ -1,4 +1,4 @@
-# This is needed to put disable FS hash checking, or rather the equivalent of it. Note it decreases security (although Chromium OS based systems are already ahead of most linux distros in terms of security)
+# This is needed to disable File System hash checking, or rather the equivalent of it. Note it decreases security (although Chromium OS based systems are already ahead of most linux distros in terms of security)
   For Chromium OS, see below
 -----------------------------------------------------------------------------------------------------------------
   Chromium OS, i.e. self-compiled builds or others like Arnold the Bat's, you should use instructions @ 
