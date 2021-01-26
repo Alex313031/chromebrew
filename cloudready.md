@@ -2,7 +2,7 @@
   For Chromium OS, see below
 -----------------------------------------------------------------------------------------------------------------
   Chromium OS, i.e. self-compiled builds or others like Arnold the Bat's, you should use instructions @ 
-[Disable Root FS Verity in Chromium OS](https://chromium.googlesource.com/chromiumos/docs/+/master/developer_mode.md#disable-verity "Chromium OS Dev Mode")
+[Disable Root FS Verity in Chromium OS](https://chromium.googlesource.com/chromiumos/docs/+/master/developer_mode.md#disable-verity "Chromium OS FS Verification")
 
 **UPDATE** - This is probably not necessary for dev/test builds, but may be useful for base builds.
 -----------------------------------------------------------------------------------------------------------------
