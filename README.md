@@ -4,7 +4,7 @@
 
 <p align="center">Package manager for Chrome OS</p>
 
-<p align="center">View cloudready.md for CloudReady/CROS instructions!!</p>
+<p align="center">View cloudready.md for CloudReady & ChromiumOS instructions!!</p>
 
 Chat with us!
 -------------
